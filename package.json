@@ -1,0 +1,14 @@
+{
+  "name": "net.bobbo.camera-manager-console-commands",
+  "version": "0.0.1",
+  "displayName": "Bobbo-Net Camera Manager Console Commands",
+  "author": {
+    "name": "BOBBO-NET",
+    "url": "https://bobbo.net"
+  },
+  "dependencies": {
+    "com.svermeulen.extenject": "9.2.0",
+    "net.bobbo.dev-console": "0.0.1",
+    "net.bobbo.camera-manager": "0.0.1"
+  }
+}
