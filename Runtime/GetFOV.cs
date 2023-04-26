@@ -1,8 +1,9 @@
 ﻿using System.Text;
 using UnityEngine;
 using Zenject;
+using BobboNet;
 
-namespace BobboNet.DevConsole.CameraManager
+namespace BobboNet.ConsoleCommands
 {
     public class GetFOV : DevConsoleCommandBase
     {

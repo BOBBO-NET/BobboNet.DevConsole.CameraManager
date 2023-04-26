@@ -1,7 +1,7 @@
 using UnityEngine;
 using Zenject;
 
-namespace BobboNet.DevConsole.CameraManager
+namespace BobboNet.ConsoleCommands
 {
     [CreateAssetMenu(fileName = "CameraManagerConsoleCommandInstaller", menuName = "Installers/CameraManagerConsoleCommandInstaller")]
     public class CameraManagerConsoleCommandInstaller : ScriptableObjectInstaller<CameraManagerConsoleCommandInstaller>
